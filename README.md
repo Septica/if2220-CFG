@@ -1,4 +1,5 @@
 # Tugas II. IF 2220 Teori Bahasa & Otomata
+## Implementasi CFG pada pengenalan sintaks bahasa sederhana
 
 Aplikasi yang akan membuka file yang berisi sintaks program dan kemudian memeriksa apakah sintaks pada program tersebut valid atau tidak menggunakan tabel parser dengan acuan CNF.
 
